@@ -1,0 +1,31 @@
+/* Custom variables */
+
+:root {
+--clr-background-purple: hsl(263, 55%, 52%);
+--clr-background-grey:hsl(217, 19%, 35%);
+--clr-background-blackish: hsl(219, 29%, 14%);
+--clr-background-white: hsl(0, 0%, 100%);
+
+--fw-medium:500;
+--fw-semibold:600;
+
+--ff: "Barlow Semi Condensed", sans-serif;
+
+--fw:0.8125rem;
+
+}
+
+/* CSS reset */
+* {
+    box-sizing: border-box;
+    margin:0;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* Mobile view */
+/* Structure design */
+
